@@ -1,6 +1,5 @@
 *
 !.gitignore
-!readme
 !readme.md
 !Makefile
 !kruskal.cpp
